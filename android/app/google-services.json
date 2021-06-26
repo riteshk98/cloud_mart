@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269312014916",
+    "project_id": "cloud-mart-9f692",
+    "storage_bucket": "cloud-mart-9f692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269312014916:android:1db5ced725629f42c0da11",
+        "android_client_info": {
+          "package_name": "com.rk.cloud_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269312014916-ium1epdp8ml20a7151dec163rubu60ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rk.cloud_mart",
+            "certificate_hash": "0a80627632605c4e01af1589d3e828986da0e8dd"
+          }
+        },
+        {
+          "client_id": "269312014916-70l6m2t9sv5bfp5uajm786jfqgdi7k5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEasnvO0qUvErRIOvwBmfxtrfy_SBBhFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269312014916-70l6m2t9sv5bfp5uajm786jfqgdi7k5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
